@@ -1,6 +1,6 @@
 # Goggles
 
-TODO: Write a gem description
+This does nothing.
 
 ## Installation
 
